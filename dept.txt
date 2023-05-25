@@ -1,0 +1,5 @@
+
+1000  ComputerScience
+1001      electronics
+1002       mechanical
+1003              cse

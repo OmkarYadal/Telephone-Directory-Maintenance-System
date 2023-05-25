@@ -1,0 +1,4 @@
+
+1000               meethSakaria  1002       mechanical  hubli  1002001
+1001                 omkarYadal  1000  ComputerScience    dwd  1000001
+1002               bhavanaBorah  1001      electronics  assam  1001001
